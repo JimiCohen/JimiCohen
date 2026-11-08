@@ -1,10 +1,10 @@
 # Jimi Cohen
 
-Australian environmentalist, founder of [Treegens](https://treegens.org/) and host of the [Eco Champions podcast](https://www.ecochampions.live/).
+Australian environmentalist, co-founder and CEO of [Treegens](https://treegens.org/) and host of the [Eco Champions podcast](https://www.ecochampions.live/).
 
 - 👋 Hi, I’m @JimiCohen
 - 👀 I’m interested in solving the world's greatest challenges through Web3 innovations...
-- 📫 How to reach me jimi@wemakeimpact.org
+- 📫 How to reach me [jimi@treegens.org](mailto:jimi@treegens.org)
 
 ## Official websites and profiles
 
